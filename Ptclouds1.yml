@@ -1,0 +1,24 @@
+name: Ptclouds
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy-base
+  - msgpack-numpy
+  - numpy
+  - numpydoc
+  - numpy-devel
+  - matplotlib-base
+  - matplotlib
+  - ipywidgets
+  - scipy
+  - plotly
+  - pandas-datareader
+  - geopandas
+  - pandas
+  - ipyvolume
+  - scikit-learn
+  - ipysheet
+  - ipykernel
+  - treeinterpreter
+prefix: /Applications/anaconda3/envs/Ptclouds
