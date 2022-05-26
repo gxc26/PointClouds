@@ -17,4 +17,6 @@ Notes:
 		The PICKLE file also stores the room number of each 3D points.  
 		
 
+(4) PointNet++ semantic segmentation algorithm is a hierarchical feature learning framework on point clouds. The PointNet++ architecture applies PointNet recursively on a nested partitioning of the input point set. It also proposes novel layers for point clouds with non-uniform densities. For full description of PointNet++ algorithm, please see 
+Qi, C. et al. (2017) ‘PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space’, in NIPS’17: Proceedings of the 31st International Conference on Neural Information Processing Systems, Dec. 4-9, 2017. Long Beach, CA, pp. 5105–5114.
 
